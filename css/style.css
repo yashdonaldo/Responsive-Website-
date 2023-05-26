@@ -265,7 +265,7 @@
         height: 50px;
     }
     .v-class{
-        opacity: 0;
+        display: none;
     }
     .text{
         width: auto;
